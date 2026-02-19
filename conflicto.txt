@@ -1,3 +1,3 @@
 PROYECTO: Git Conflicts
-Responsable: Equipo-A
+Resposable: EQUIPO-A y EQUIPO-B
 Versión: 1.0
