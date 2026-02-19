@@ -1,0 +1,3 @@
+PROYECTO: Git Conflicts
+Responsable: Benjamin_Sandoval
+Versión: 1.0
